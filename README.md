@@ -1,4 +1,4 @@
-![UX Banner](css/image/ux-research.png)
+![UX Banner](ux-research.png)
 
 # UX Research
 
