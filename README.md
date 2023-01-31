@@ -4,13 +4,6 @@
 
 Lecture and other learning resources about User Experience Research for designers, managers, and developers.
 
-[Short Version of Presentation](https://marypavlenko.github.io/UX-Research-Lecture/)<br>
-[All Version of Presentation](https://github.com/ux-research-pages/UX-Research/blob/master/css/Lecture_UX_Research.pdf)
-
-
-:heart: Many thanks for the great framework for easily creating presentations using HTML. 
-View more detail about framework on the author’s page [reveal.js](https://github.com/hakimel/reveal.js#markup)
-
 ## Table of contents
    * [UX Approachs](#ux-approachs)
    * [Books](#books)
