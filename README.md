@@ -1,10 +1,9 @@
 ![UX Banner](ux-research.png)
 
-# Lecture on UX research 
+# Lecture on UX research
+Lecture and other learning resources about User Experience Research for designers, managers, and developers.
 ![Lecture on UX research](Lecture_UX_Research.png)
 ![Lecture plan](Lecture_plan.png)
-
-Lecture and other learning resources about User Experience Research for designers, managers, and developers.
 
 # UX Research books and resources database
 ## Table of contents
