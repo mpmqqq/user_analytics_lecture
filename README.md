@@ -4,6 +4,7 @@
 
 Lecture and other learning resources about User Experience Research for designers, managers, and developers.
 
+
 ## Table of contents
    * [UX Approachs](#ux-approachs)
    * [Books](#books)
